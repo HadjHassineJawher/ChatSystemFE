@@ -1,0 +1,13 @@
+import { StyleSheet } from "react-native";
+
+const MessageStyles = StyleSheet.create({
+  container: {
+    backgroundColor: "#3777f0",
+    padding: 10,
+    margin: 10,
+    borderRadius: 10,
+    maxWidth: "75%",
+  },
+});
+
+export default MessageStyles;
